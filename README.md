@@ -2,7 +2,7 @@
 
 CHIPS, or Cellular and Hemodynamic Image Processing Suite, is an open-source MATLAB toolbox designed to analyse functional images of cells and blood vessels, primarily from confocal or two-photon microscopy.  CHIPS is hosted at [GitHub](https://github.com/EIN-lab/CHIPS).
 
-Getting Started
+Prerequisites
 ---------------
 ### Prerequisites
 CHIPS has been tested on computers running Windows, macOS and several Linux distributions, using MATLAB versions from R2013a.  CHIPS is also expected to run in earlier MATLAB versions; however, this cannot be guaranteed since the unit testing framework did not exist prior to R2013a.  Every effort has been made to eliminate the use of additional MATLAB toolboxes, but it is impractical in certain cases.  In addition, while all algorithms work from R2013a, some function better in more recent versions.
