@@ -10,12 +10,19 @@ Prerequisites
 Installation
 ----------------
 
+Download the file.
+double cilck on file
+or:
+On the APPS tab of MATLAB, click the Install App button.
+brows to the containing folder and select the file
 
+
+The ST-ERP-Den appears alongside MATLAB toolbox apps in the apps gallery.
 
 Quick start guides and examples
 -------------------------------
 
-Find our quick start guides for many applications in the [Documentation](https://ein-lab.github.io/2p-img-analysis/doc/md/).
+Find our quick start guides for many applications in the [Documentation](https://youtu.be/--cxZbnmmoc).
 
 
 Bug Reports and Further Assistance
