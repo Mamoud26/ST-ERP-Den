@@ -23,7 +23,7 @@ Users do not need to manage the MATLAB search path or other installation details
 Quick start guides and examples
 -------------------------------
 
-Find our quick start guides for many applications in the [Documentation](https://youtu.be/--cxZbnmmoc).
+Find our quick start guides for many applications in the [Documentation](https://youtu.be/xKG8v_MYl_s).
 
 
 Bug Reports and Further Assistance
