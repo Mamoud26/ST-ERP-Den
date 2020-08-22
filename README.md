@@ -1,23 +1,24 @@
-# ST-ERP-Den
+# STERP-Denoising
 
-ERP-ToolBox is a MATLAB application for ST-ERPs denoising using non-conventional methods. It implements a generator of simulated data sets with an additive EEG activity as noise. The tool allows denoising of simulated and real data using different automatic adaptive filtering models and provides statistical analysis to ensure generality of the results. It could serve as a comparison tool for future studies dealing with ST-ERP denoising and be of broad use to the computational and cognitive neuroscience communities.
+STERP-Denoising is a MATLAB application for Single-Trial Event-Related Potentials denoising using non-conventional methods. It implements a generator of simulated data sets with an additive EEG activity as noise. The tool allows denoising of simulated and real data using different automatic adaptive filtering models and provides statistical analysis to ensure generality of the results. It could serve as a comparison tool for future studies dealing with ST-ERP denoising and be of broad use to the computational and cognitive neuroscience communities.
 
 Prerequisites
 ---------------
 
-ST-ERP-Denoising is implemented as a MATLAB Application, and has been tested on computers running Windows 7 and 10 (but should runs on macOS and Linux distributions) using MATLAB version from R2018b.
+STERP-Denoising is implemented as a MATLAB Application, and has been tested on computers running Windows 7 and 10 (but should run on macOS and Linux distributions) using MATLAB version from R2018b.
 
 Installation
 ----------------
 
-Download the file.
-double cilck on file
-or:
-On the APPS tab of MATLAB, click the Install App button.
-brows to the containing folder and select the file
+1. Download the installation file [here](https://github.com/Mamoud26/ST-ERP-Den/blob/master/ERP_Toolbox.mlappinstall)
 
-The ST-ERP-Den appears alongside MATLAB toolbox apps in the apps gallery.
+2. On the APPS tab of MATLAB, click the Install App button.
 
+3. Brows to the containing folder and select the file.
+
+Or just double click on the installation file and choose Instal. 
+
+The STERP-Denoising appears alongside MATLAB toolbox apps in the apps gallery.
 Users do not need to manage the MATLAB search path or other installation details.
 
 Quick start guides and examples
