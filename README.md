@@ -16,7 +16,7 @@ Installation
 
 3. Brows to the containing folder and select the file.
 
-Or just double click on the installation file and choose Instal. 
+Or just double click on the installation file and choose Install. 
 
 The STERP-Denoising appears alongside MATLAB toolbox apps in the apps gallery.
 Users do not need to manage the MATLAB search path or other installation details.
