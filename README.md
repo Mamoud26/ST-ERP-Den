@@ -100,6 +100,8 @@ C. On the Statistical Analysis tab:
 
 Find our quick start guides for many applications in the [Documentation](https://youtu.be/xKG8v_MYl_s).
 
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Table1.png" width="470"> 
+
 
 Bug Reports and Further Assistance
 ----------------------------------
