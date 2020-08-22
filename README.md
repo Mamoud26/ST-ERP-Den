@@ -21,8 +21,82 @@ Or just double click on the installation file and choose Install.
 The STERP-Denoising appears alongside MATLAB toolbox apps in the apps gallery.
 Users do not need to manage the MATLAB search path or other installation details.
 
-Quickstart guides and examples
+# Quickstart guides and examples
 -------------------------------
+
+Steps for Simulation
+--------------------
+
+A. On the Simulation tab:
+-------------------------
+1. Set the number of trials and number of samples per trial.
+2. Set the level of added EEG background in dB.
+3. Set the range of latency variation.
+4. Choose one of the five waveforms.
+5. Save the two generated data sets using the Save Data button. (optional)
+
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470">
+
+B. On the Denoising tab:
+------------------------
+1. Choose the Simulation data.
+2. Click the Load button to load the data.
+3. Choose the methods to be used for denoising the data.
+4. Click the Filter button to process the data.
+5. Set the parameters of each method in their respective subtabs.
+6. Save the denoised data sets. (optional)
+7. Load the data denoised externally. (optional)
+8. Export the figure of the noisy and denoised data using the Save Figures button. (optional)
+
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470"> <img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470">
+
+C. On the Evaluation tab:
+-------------------------
+1. Click the Evaluate button to plot the curves of the SNR and the MSE.
+2. Export the figure of the curves using the Save Figure button. (optional)
+
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470"> 
+
+D. On the Statistical Analysis tab:
+-----------------------------------
+1. Choose the significance level alpha.
+2. Choose the post hoc test.
+3. Click the respective button to analyse the SNR or the MSE.
+4. Export the figure of the statistical analysis using the Save Figure button. (optional)
+
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470">
+
+Steps for Real data
+-------------------
+
+A. On the Denoising tab:
+------------------------
+1. Choose the Real data.
+2. Click the Load button to load the data.
+3. Choose the methods to be used for denoising the data.
+4. Click the Filter button to process the data.
+5. Set the parameters of each method in their respective subtabs.
+6. Save the denoised data sets. (optional)
+7. Load the data denoised externally. (optional)
+8. Export the figure of the noisy and denoised data using the Save Figures button. (optional)
+
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470">
+
+B. On the Evaluation tab:
+-------------------------
+1. Click the Evaluate button to plot the bars of the SNR estimations.
+2. Export the figure using the Save Figure button. (optional)
+
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470">
+
+C. On the Statistical Analysis tab:
+-----------------------------------
+1. Choose the significance level alpha.
+2. Choose the post hoc test.
+3. Click the button to analyse the SNRcorr.
+4. Export the figure of the statistical analysis using the Save Figure button. (optional)
+
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470"> 
 
 Find our quick start guides for many applications in the [Documentation](https://youtu.be/xKG8v_MYl_s).
 
