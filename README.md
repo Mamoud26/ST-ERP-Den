@@ -23,6 +23,7 @@ Users do not need to manage the MATLAB search path or other installation details
 
 # Quickstart guides and examples
 -------------------------------
+Find how to install and use STERP-Denoising app in this short [video](https://youtu.be/xKG8v_MYl_s).
 
 Steps for Simulation
 --------------------
@@ -98,9 +99,7 @@ C. On the Statistical Analysis tab:
 
 <img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470"> 
 
-Find our quick start guides for many applications in the [Documentation](https://youtu.be/xKG8v_MYl_s).
-
-<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Table1.png" width="470"> 
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Table1.png"> 
 
 
 Bug Reports and Further Assistance
