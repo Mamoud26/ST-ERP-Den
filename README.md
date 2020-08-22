@@ -5,7 +5,7 @@ STERP-Denoising is a MATLAB application for Single-Trial Event-Related Potential
 Prerequisites
 ---------------
 
-STERP-Denoising is implemented as a MATLAB Application, and has been tested on computers running Windows 7 and 10 (but should run on macOS and Linux distributions) using MATLAB version from R2018b.
+STERP-Denoising is implemented as a MATLAB Application and has been tested on computers running Windows 7 and 10 (but should run on macOS and Linux distributions) using MATLAB version from R2018b.
 
 Installation
 ----------------
@@ -14,14 +14,14 @@ Installation
 
 2. On the APPS tab of MATLAB, click the Install App button.
 
-3. Brows to the containing folder and select the file.
+3. Browse to the containing folder and select the file.
 
 Or just double click on the installation file and choose Install. 
 
 The STERP-Denoising appears alongside MATLAB toolbox apps in the apps gallery.
 Users do not need to manage the MATLAB search path or other installation details.
 
-Quick start guides and examples
+Quickstart guides and examples
 -------------------------------
 
 Find our quick start guides for many applications in the [Documentation](https://youtu.be/xKG8v_MYl_s).
