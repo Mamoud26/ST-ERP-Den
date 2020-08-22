@@ -69,11 +69,12 @@ D. On the Statistical Analysis tab:
 
 Steps for Real data
 -------------------
+An exemple of real data are available here.
 
 A. On the Denoising tab:
 ------------------------
 1. Choose the Real data.
-2. Click the Load button to load the data.
+2. Click the Load button to load the data. The input data should be an M-by-N matrix ASCII file where M is the number of trials and N is the number of sample per trials. If not, the use of the vec2mat.m  function is recommended to convert the vector into a matrix.
 3. Choose the methods to be used for denoising the data.
 4. Click the Filter button to process the data.
 5. Set the parameters of each method in their respective subtabs.
@@ -98,6 +99,8 @@ C. On the Statistical Analysis tab:
 4. Export the figure of the statistical analysis using the Save Figure button. (optional)
 
 <img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470"> 
+
+has to use the parameters in Table
 
 <img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Table1.png"> 
 
