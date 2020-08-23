@@ -49,14 +49,14 @@ B. On the Denoising tab:
 7. Load the data denoised externally. (optional)
 8. Export the figure of the noisy and denoised data using the Save Figures button. (optional)
 
-<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470"> <img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470">
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation2.png" width="470"> <img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation3.png" width="470">
 
 C. On the Evaluation tab:
 -------------------------
 1. Click the Evaluate button to plot the curves of the SNR and the MSE.
 2. Export the figure of the curves using the Save Figure button. (optional)
 
-<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470"> 
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation4.png" width="470"> 
 
 D. On the Statistical Analysis tab:
 -----------------------------------
@@ -65,7 +65,7 @@ D. On the Statistical Analysis tab:
 3. Click the respective button to analyse the SNR or the MSE.
 4. Export the figure of the statistical analysis using the Save Figure button. (optional)
 
-<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470">
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation5.png" width="470"><img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation6.png" width="470">
 
 Steps for Real data
 -------------------
@@ -82,14 +82,14 @@ A. On the Denoising tab:
 7. Load the data denoised externally. (optional)
 8. Export the figure of the noisy and denoised data using the Save Figures button. (optional)
 
-<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470">
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/real1.png" width="470">
 
 B. On the Evaluation tab:
 -------------------------
 1. Click the Evaluate button to plot the bars of the SNR estimations.
 2. Export the figure using the Save Figure button. (optional)
 
-<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470">
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/real2.png" width="470">
 
 C. On the Statistical Analysis tab:
 -----------------------------------
@@ -98,7 +98,7 @@ C. On the Statistical Analysis tab:
 3. Click the button to analyse the SNRcorr.
 4. Export the figure of the statistical analysis using the Save Figure button. (optional)
 
-<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation1.png" width="470"> 
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/real3.png" width="470"> 
 
 has to use the parameters in Table
 
