@@ -10,7 +10,7 @@ STERP-Denoising is implemented as a MATLAB Application and has been tested on co
 Installation
 ----------------
 
-1. Download the installation file [here](https://github.com/Mamoud26/ST-ERP-Den/blob/master/ERP_Toolbox.mlappinstall).
+1. Download the installation file [here](https://github.com/Mamoud26/ST-ERP-Den/blob/master/STERP%20Denoising.mlappinstall).
 
 2. On the APPS tab of MATLAB, click the Install App button.
 
