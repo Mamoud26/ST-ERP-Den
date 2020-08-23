@@ -10,7 +10,7 @@ STERP-Denoising is implemented as a MATLAB Application and has been tested on co
 Installation
 ----------------
 
-1. Download the installation file [here](https://github.com/Mamoud26/ST-ERP-Den/blob/master/ERP_Toolbox.mlappinstall)
+1. Download the installation file [here](https://github.com/Mamoud26/ST-ERP-Den/blob/master/ERP_Toolbox.mlappinstall).
 
 2. On the APPS tab of MATLAB, click the Install App button.
 
@@ -23,7 +23,7 @@ Users do not need to manage the MATLAB search path or other installation details
 
 # Quickstart guides and examples
 -------------------------------
-Find how to install and use STERP-Denoising app in this [video](https://youtu.be/xKG8v_MYl_s). 
+Find how to install and use STERP-Denoising app in this [video](https://youtu.be/oHLARN0cdrw). 
 
 Steps for Simulation
 --------------------
@@ -84,7 +84,7 @@ A. On the Denoising tab:
 
 <img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/real1.png" width="470">
 
-The real data (S4\_OST) used in the example is available with the EP\_den implementation [here](\url{https://www2.le.ac.uk/centres/csn/software/ep_den}); however those recordings and their denoised versions using EP\_den are also available in the folder [RealDataERP]().
+The real data (S4\_OST) used in the example is available with the EP\_den implementation [here](\url{https://www2.le.ac.uk/centres/csn/software/ep_den}); however those recordings and their denoised versions using EP\_den are also available in the folder [RealDataERP](https://github.com/Mamoud26/ST-ERP-Den/tree/master/RealDataERP).
 Other recordings could be found [here](\url{https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software})
 
 B. On the Evaluation tab:
