@@ -23,7 +23,7 @@ Users do not need to manage the MATLAB search path or other installation details
 
 # Quickstart guides and examples
 -------------------------------
-Find how to install and use STERP-Denoising app in this short [video](https://youtu.be/xKG8v_MYl_s).
+Find how to install and use STERP-Denoising app in this [video](https://youtu.be/xKG8v_MYl_s). 
 
 Steps for Simulation
 --------------------
@@ -56,7 +56,7 @@ C. On the Evaluation tab:
 1. Click the Evaluate button to plot the curves of the SNR and the MSE.
 2. Export the figure of the curves using the Save Figure button. (optional)
 
-<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation4.png" width="470"> 
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Simulation4.png" width="470">
 
 D. On the Statistical Analysis tab:
 -----------------------------------
@@ -69,11 +69,11 @@ D. On the Statistical Analysis tab:
 
 Steps for Real data
 -------------------
-An exemple of real data are available here.
+Examples of real data are available here.
 
 A. On the Denoising tab:
 ------------------------
-1. Choose the Real data.
+1. Choose Real data.
 2. Click the Load button to load the data. The input data should be an M-by-N matrix ASCII file where M is the number of trials and N is the number of sample per trials. If not, the use of the vec2mat.m  function is recommended to convert the vector into a matrix.
 3. Choose the methods to be used for denoising the data.
 4. Click the Filter button to process the data.
@@ -83,6 +83,9 @@ A. On the Denoising tab:
 8. Export the figure of the noisy and denoised data using the Save Figures button. (optional)
 
 <img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/real1.png" width="470">
+
+The real data (S4\_OST) used in the example is available with the EP\_den implementation [here](\url{https://www2.le.ac.uk/centres/csn/software/ep_den}); however those recordings and their denoised versions using EP\_den are also available in the folder [RealDataERP]().
+Other recordings could be found [here](\url{https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software})
 
 B. On the Evaluation tab:
 -------------------------
@@ -98,11 +101,12 @@ C. On the Statistical Analysis tab:
 3. Click the button to analyse the SNRcorr.
 4. Export the figure of the statistical analysis using the Save Figure button. (optional)
 
-<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/real3.png" width="470"> 
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/real3.png" width="470">
 
-has to use the parameters in Table
 
-<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Table1.png"> 
+The results of the above examples were obtained using the parameters in the following table:
+
+<img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/Table1.png">
 
 
 Bug Reports and Further Assistance
