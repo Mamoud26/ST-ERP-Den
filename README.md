@@ -85,7 +85,8 @@ A. On the Denoising tab:
 <img src="https://github.com/Mamoud26/ST-ERP-Den/blob/master/real1.png" width="470">
 
 The real data (S4\_OST) used in the example is available with the EP\_den implementation [here](\url{https://www2.le.ac.uk/centres/csn/software/ep_den}); however those recordings and their denoised versions using EP\_den are also available in the folder [RealDataERP](https://github.com/Mamoud26/ST-ERP-Den/tree/master/RealDataERP).
-Other recordings could be found [here](\url{https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software})
+
+Other recordings could be found [here](https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software).
 
 B. On the Evaluation tab:
 -------------------------
